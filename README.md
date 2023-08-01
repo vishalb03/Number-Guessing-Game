@@ -1,2 +1,3 @@
 # Number-Guessing-Game
-Oasis Infobyte
+Oasis Infobyte Internship 
+Task: 2
